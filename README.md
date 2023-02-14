@@ -1,10 +1,11 @@
 #Password Generator Starter Code
-My GitHub repo: https://github.com/Trengland/Password-Generator 
+GitHub repo direct link : https://github.com/Trengland/Password-Generator 
 
-Deployed (live) site:
+Deployed (live) fully functioing site:  
 
 
 Screenshot of site:
+![image](https://user-images.githubusercontent.com/122329399/218633688-61498578-322a-44e7-88ff-3624d2010d04.png)
 
 
 Steps taken:
@@ -39,5 +40,3 @@ Steps taken:
 // setup the 'generate pw' function - but it's not working - going back over code to find any errors, and including more if and let statements next time i work on it
 
 // rewrote my return statement for my generatePassword function - still no luck, collaborating with the rest of the class.
-
-
