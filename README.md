@@ -1,5 +1,13 @@
 #Password Generator Starter Code
+My GitHub repo: https://github.com/Trengland/Password-Generator 
 
+Deployed (live) site:
+
+
+Screenshot of site:
+
+
+Steps taken:
 // set a variable of the inputs id (password)
 
 // added all symbols and numbers and alphabet characters that could be used
@@ -30,4 +38,6 @@
 
 // setup the 'generate pw' function - but it's not working - going back over code to find any errors, and including more if and let statements next time i work on it
 
-// 
+// rewrote my return statement for my generatePassword function - still no luck, collaborating with the rest of the class.
+
+
