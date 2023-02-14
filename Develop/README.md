@@ -1,4 +1,3 @@
-#Password Generator Starter Code
 My GitHub repo: https://github.com/Trengland/Password-Generator 
 
 Deployed (live) site:
