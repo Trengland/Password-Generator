@@ -1,6 +1,6 @@
 GitHub repo direct link : https://github.com/Trengland/Password-Generator 
 
-Deployed (live) fully functioing site:  
+Deployed (live) fully functioing site:  https://trengland.github.io/Password-Generator/
 
 
 Screenshot of site:
