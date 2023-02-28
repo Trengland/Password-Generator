@@ -6,6 +6,9 @@ Deployed (live) fully functioing site:  https://trengland.github.io/Password-Gen
 Screenshot of site:
 ![image](https://user-images.githubusercontent.com/122329399/218633688-61498578-322a-44e7-88ff-3624d2010d04.png)
 
+![Uploading image.png…]()
+
+
 
 Steps taken:
 // set a variable of the inputs id (password)
